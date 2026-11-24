@@ -5,3 +5,6 @@ print("fadhil ganteng banget")
 print("fadhil tampan")
 
 print("ditya ganteng banget")
+
+
+print("yayyaya")
