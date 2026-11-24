@@ -1,0 +1,1 @@
+print("fadhil tampan kek anjing")
