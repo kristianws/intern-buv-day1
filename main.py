@@ -7,4 +7,5 @@ print("fadhil tampan")
 print("ditya ganteng banget")
 
 
+print("yayyaya")
 print("semangat yang magang")
