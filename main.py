@@ -1,1 +1,1 @@
-print("fadhil tampan kek anjing")
+print("fadhil tampan")
